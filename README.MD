@@ -88,7 +88,7 @@ In order to customise the TriangleLabelView appearance, you can play with the fo
 
 ## <a name="license"> License </a>
 
-    Copyright (C) 2018 Nicolas Milcoff
+    Copyright (C) 2018 Austin Gaither
     Copyright (C) 2016 Shota Saito
 
     Licensed under the Apache License, Version 2.0 (the "License");
